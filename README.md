@@ -1,2 +1,1 @@
-#wallet client 
-Greenchain Client Update 20180902 V1.0.0.1
+Greenchain Client V1.0.0.1 Update 20180902 
